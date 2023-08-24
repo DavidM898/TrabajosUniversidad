@@ -1,0 +1,10 @@
+﻿  Ejercicio1.cpp
+  Ejercicio2.cpp
+  MyForm.cpp
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\Ejercicio3.h(115,16): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\Ejercicio3.h(118,64): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\Ejercicio3.h(128,16): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\Ejercicio3.h(131,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Ejercicio1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab2_David_Monje_1019123.vcxproj -> C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\x64\Debug\Lab2_David_Monje_1019123.exe

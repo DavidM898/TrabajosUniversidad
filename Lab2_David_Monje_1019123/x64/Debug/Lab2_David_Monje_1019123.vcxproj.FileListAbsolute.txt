@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\x64\Debug\Lab2_David_Monje_1019123.vcxproj.AssemblyReference.cache
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\x64\Debug\Lab2_David_Monje_1019123.exe
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\x64\Debug\Lab2DavidMonje1019123.MyForm.resources
+C:\Users\user\Documents\Proyectos_C++\Lab2_David_Monje_1019123\x64\Debug\Lab2_David_Monje_1019123.vcxproj.GenerateResource.cache
